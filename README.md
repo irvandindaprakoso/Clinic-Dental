@@ -19,7 +19,7 @@ Web yang digunakan untuk mengelola data pasien dan mempermudah dalam melakukan t
 
 **Screenshot App**
 
-<img src="https://github.com/irvandindaprakoso/Clinic-Dental/blob/master/Vozz-interface/login.png" height="200"/>
+<img src="https://github.com/irvandindaprakoso/Clinic-Dental/blob/master/Vozz-interface/login.png" height="300"/> <img src="https://github.com/irvandindaprakoso/Clinic-Dental/blob/master/Vozz-interface/dashboard.png" height="300"/>  <img src="https://github.com/irvandindaprakoso/Clinic-Dental/blob/master/Vozz-interface/data-users.png" height="300"/> <img src="https://github.com/irvandindaprakoso/Clinic-Dental/blob/master/Vozz-interface/add-user.png" height="300"/> <img src="https://github.com/irvandindaprakoso/Clinic-Dental/blob/master/Vozz-interface/data-pasien.png" height="300"/> <img src="https://github.com/irvandindaprakoso/Clinic-Dental/blob/master/Vozz-interface/add-pasien.png" height="300"/> <img src="https://github.com/irvandindaprakoso/Clinic-Dental/blob/master/Vozz-interface/detail-pasien.png" height="300"/> <img src="https://github.com/irvandindaprakoso/Clinic-Dental/blob/master/Vozz-interface/transaksi.png" height="300"/> <img src="https://github.com/irvandindaprakoso/Clinic-Dental/blob/master/Vozz-interface/detail-transaksi.png" height="300"/> 
 
 
 
